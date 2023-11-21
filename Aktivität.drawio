@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T19:00:17.822Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="9FHpwyeBS3QYCPD-Eibr" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T19:10:40.997Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="YpFlWNPAYtlxJLV4C4zC" version="22.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="851" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="354" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,6 +25,9 @@
             <mxPoint x="-1176" y="304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bx49-o98QQ3P4vnW_Qpf-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-8" target="O5BcbNm2OCLrN9YEBHeC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O5BcbNm2OCLrN9YEBHeC-8" value="Ersten Block bauen: Steuerwerk" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1163.273025512696" y="180" width="190" height="30" as="geometry" />
         </mxCell>
@@ -34,13 +37,13 @@
             <mxPoint x="-1256" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-15" value="Mima Befehlssatz Item in das Steuerwerk einlegen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-15" value="Mima Befehlssatz Item in das Steuerwerk einlegen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1138.273025512696" y="310" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-16" value="RiscV Befehlssatz Item in das Steuerwerk einlegen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-16" value="RiscV Befehlssatz Item in das Steuerwerk einlegen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="898.273025512696" y="310" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-17" value="Konfigurierbares Befehlssatz Item in die Hand nehmen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-17" value="Konfigurierbares Befehlssatz Item in die Hand nehmen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1368.273025512696" y="310" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O5BcbNm2OCLrN9YEBHeC-18" value="" style="rhombus;whiteSpace=wrap;html=1;portConstraintRotation=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -58,7 +61,7 @@
             <mxPoint x="-1116" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-25" value="Alu, Taktgeber, Bus, Speicher und Register bauen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-25" value="Alu, Taktgeber, Bus, Speicher und Register bauen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;strokeColor=#b46504;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1173.273025512696" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5BcbNm2OCLrN9YEBHeC-26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-15" target="O5BcbNm2OCLrN9YEBHeC-25" edge="1">
@@ -67,7 +70,7 @@
             <mxPoint x="-510" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-27" value="Alu, Taktgeber, Bus, Speicher und mehrere Register bauen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-27" value="Alu, Taktgeber, Bus, Speicher und mehrere Register bauen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="938.273025512696" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5BcbNm2OCLrN9YEBHeC-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-16" target="O5BcbNm2OCLrN9YEBHeC-27" edge="1">
@@ -76,7 +79,7 @@
             <mxPoint x="-340" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-29" value="Alu, Taktgeber, Bus, Speicher und mehrere Register bauen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-29" value="Alu, Taktgeber, Bus, Speicher und mehrere Register bauen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1433.273025512696" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5BcbNm2OCLrN9YEBHeC-30" value="" style="rhombus;whiteSpace=wrap;html=1;double=0;portConstraintRotation=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -115,10 +118,10 @@
             <mxPoint x="-630" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-37" value="Item bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-37" value="Item bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1433.273025512696" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-38" value="Item in das Steuerwerk legen" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-38" value="Item in das Steuerwerk legen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1433.273025512696" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O5BcbNm2OCLrN9YEBHeC-39" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-37" target="O5BcbNm2OCLrN9YEBHeC-38" edge="1">
@@ -154,7 +157,7 @@
         <mxCell id="O5BcbNm2OCLrN9YEBHeC-46" value="" style="rhombus;whiteSpace=wrap;html=1;portConstraintRotation=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="978.273025512696" y="710" width="40" height="35.25" as="geometry" />
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-47" value="Programm selbst schreiben" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-47" value="Programm selbst schreiben" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000.003025512696" y="775.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bx49-o98QQ3P4vnW_Qpf-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-46" target="O5BcbNm2OCLrN9YEBHeC-44">
@@ -181,12 +184,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="530" y="1820" as="sourcePoint" />
             <mxPoint x="610" y="1820" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bx49-o98QQ3P4vnW_Qpf-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.531;exitY=1.047;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-8" target="O5BcbNm2OCLrN9YEBHeC-18">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="320" y="390" as="sourcePoint" />
-            <mxPoint x="472.7288671874999" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bx49-o98QQ3P4vnW_Qpf-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-18" target="O5BcbNm2OCLrN9YEBHeC-17">
@@ -225,7 +222,7 @@
             <mxPoint x="750" y="2210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bx49-o98QQ3P4vnW_Qpf-20" value="Taktgeber einstellen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bx49-o98QQ3P4vnW_Qpf-20" value="Taktgeber einstellen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFB366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="970.003025512696" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bx49-o98QQ3P4vnW_Qpf-21" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bx49-o98QQ3P4vnW_Qpf-18" target="bx49-o98QQ3P4vnW_Qpf-20">
@@ -243,7 +240,7 @@
             <mxPoint x="710" y="2250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bx49-o98QQ3P4vnW_Qpf-24" value="Speicherblock öffnen und Inspizieren" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bx49-o98QQ3P4vnW_Qpf-24" value="Speicherblock öffnen und Inspizieren" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1353.273025512696" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bx49-o98QQ3P4vnW_Qpf-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;noEdgeStyle=1;orthogonal=1;exitX=0.869;exitY=0.226;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bx49-o98QQ3P4vnW_Qpf-22" target="bx49-o98QQ3P4vnW_Qpf-24">
@@ -257,7 +254,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bx49-o98QQ3P4vnW_Qpf-27" value="Engineer Brille aufziehen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bx49-o98QQ3P4vnW_Qpf-27" value="Engineer Brille aufziehen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1368.273025512696" y="1092.88" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bx49-o98QQ3P4vnW_Qpf-28" value="[Interesse an anderen Komponenten]" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.004;entryY=0.618;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bx49-o98QQ3P4vnW_Qpf-22" target="bx49-o98QQ3P4vnW_Qpf-27">
@@ -267,7 +264,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bx49-o98QQ3P4vnW_Qpf-30" value="Speicher/Register/Alu/... anschauen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bx49-o98QQ3P4vnW_Qpf-30" value="Speicher/Register/Alu/... anschauen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520.003025512696" y="1092.88" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bx49-o98QQ3P4vnW_Qpf-31" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bx49-o98QQ3P4vnW_Qpf-27" target="bx49-o98QQ3P4vnW_Qpf-30">
