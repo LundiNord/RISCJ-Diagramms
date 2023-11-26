@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:28:01.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" version="22.1.4" etag="Qsb5WXavfPsRiQhQ-w8I" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T14:28:26.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="LQRqfw0oOawKhcOMkOZQ" version="22.1.4" type="github">
   <diagram name="Seite-1" id="AN8Gt63PVF4YpWbxp6Zs">
-    <mxGraphModel>
+    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KMq4fxxkxraETWr-t3p_-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;Programm-Item&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="466" width="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KMq4fxxkxraETWr-t3p_-2" value="Programm transportieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KMq4fxxkxraETWr-t3p_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KMq4fxxkxraETWr-t3p_-4" target="KMq4fxxkxraETWr-t3p_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KMq4fxxkxraETWr-t3p_-4" value="Spieler" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="127" y="505" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
