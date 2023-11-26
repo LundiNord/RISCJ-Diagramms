@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:58:46.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0YEinJnIuKYp8LFcoZOq" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T17:25:24.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4np50wAkONRnmRh_qE1r" version="22.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="673" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="xOtd-ycJuPaN9KhV8kSK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-15" target="O5BcbNm2OCLrN9YEBHeC-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O5BcbNm2OCLrN9YEBHeC-15" value="Mima Befehlssatz-Item in das Steuerwerk einlegen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#FFFFFF;arcSize=50;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O5BcbNm2OCLrN9YEBHeC-15" value="Mima Befehlssatz-Item in das Steuerwerk einlegen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#FFFFFF;arcSize=12;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1163.273025512696" y="310" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xOtd-ycJuPaN9KhV8kSK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O5BcbNm2OCLrN9YEBHeC-16" target="O5BcbNm2OCLrN9YEBHeC-30">
