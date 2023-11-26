@@ -1,9 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:14:58.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" version="22.1.4" etag="yknh__WNTvzHZcJGqwAD" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T14:49:24.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="pksfXvi9LeyDAxUN2FFs" version="22.1.4" type="github">
   <diagram name="Seite-1" id="TRkzqR_WxxwmE3feRGx-">
-    <mxGraphModel>
+    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iPi5P81EQawfxraiPH8z-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;Redstone-Interface-Block&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="480" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="iPi5P81EQawfxraiPH8z-3" target="iPi5P81EQawfxraiPH8z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-3" value="Spieler" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="425" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-4" value="Redstone anbinden" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008e74;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="540" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-5" value="Redstone in den &quot;Computer&quot; einbinden" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008e74;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-6" value="Redstone Signal entgegenehmen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008e74;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-7" value="Redstone Signal ausgeben" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008e74;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="420" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-8" value="&amp;lt;&amp;lt;Extends&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=block;endSize=16;endFill=0;html=1;dashed=1;" edge="1" parent="1" source="iPi5P81EQawfxraiPH8z-7" target="iPi5P81EQawfxraiPH8z-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="472.5" y="519" as="sourcePoint" />
+            <mxPoint x="632.5" y="519" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-9" value="&amp;lt;&amp;lt;Extends&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=block;endSize=16;endFill=0;html=1;dashed=1;" edge="1" parent="1" source="iPi5P81EQawfxraiPH8z-6" target="iPi5P81EQawfxraiPH8z-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="130.5" y="344" as="sourcePoint" />
+            <mxPoint x="290.5" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-10" value="&amp;lt;&amp;lt;include&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;" edge="1" parent="1" source="iPi5P81EQawfxraiPH8z-5" target="iPi5P81EQawfxraiPH8z-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="137.5" y="367.5" as="sourcePoint" />
+            <mxPoint x="297.5" y="367.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iPi5P81EQawfxraiPH8z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iPi5P81EQawfxraiPH8z-3" target="iPi5P81EQawfxraiPH8z-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="455" />
+              <mxPoint x="300" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
