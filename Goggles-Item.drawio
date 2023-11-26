@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:27:08.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="3z1s64ysgMowJfvx16ju" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T16:08:58.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="goaeNKAW9gNU9eIZtjz6" version="22.1.4" type="github">
   <diagram name="Seite-1" id="E7ZIlm7cCNo2ioqy-Kft">
-    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2033" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UWEdhqjtWgi3fhNR3H9l-1" value="Inspektionsbrille" style="whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="UWEdhqjtWgi3fhNR3H9l-1" value="Inspektionsbrille" style="whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="255" y="122" width="493" height="446" as="geometry" />
         </mxCell>
-        <mxCell id="UWEdhqjtWgi3fhNR3H9l-6" value="Spieler" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UWEdhqjtWgi3fhNR3H9l-6" value="Spieler" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="43" y="374" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UWEdhqjtWgi3fhNR3H9l-10" value="Statusinformationen des Blocks inspizieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008e74;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="333" y="515.5" width="160" height="40" as="geometry" />
+        <mxCell id="UWEdhqjtWgi3fhNR3H9l-10" value="Statusinformationen des Blocks inspizieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008e74;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="370" y="384" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UWEdhqjtWgi3fhNR3H9l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UWEdhqjtWgi3fhNR3H9l-6" target="UWEdhqjtWgi3fhNR3H9l-10">
+        <mxCell id="UWEdhqjtWgi3fhNR3H9l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="UWEdhqjtWgi3fhNR3H9l-6" target="UWEdhqjtWgi3fhNR3H9l-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="83" y="413.8333333333335" as="sourcePoint" />
             <mxPoint x="343.0010203105571" y="413.8333333333335" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="204" y="404" />
-              <mxPoint x="204" y="536" />
+              <mxPoint x="340" y="404" />
+              <mxPoint x="340" y="404" />
             </Array>
           </mxGeometry>
         </mxCell>
