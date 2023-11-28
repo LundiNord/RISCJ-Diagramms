@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T14:11:43.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="9WT71X8jzx-3IsdFmcQl" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T14:14:19.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="_WFlh2SUFgAs-p_BPvP6" version="22.1.4" type="github">
   <diagram name="Seite-1" id="NroZgfhaD9NyDU4y-3oI">
-    <mxGraphModel dx="2433" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         <mxCell id="DDFm2RIryqONvmcoJMjr-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-14" target="Xgd_PEKhiGCFAb-JLPNT-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="400" />
+              <mxPoint x="80" y="397" />
               <mxPoint x="80" y="755" />
             </Array>
           </mxGeometry>
@@ -96,6 +96,16 @@
         </mxCell>
         <mxCell id="DDFm2RIryqONvmcoJMjr-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-14" target="Xgd_PEKhiGCFAb-JLPNT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i06l6VP_p-9tVwEpuvTh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-14" target="i06l6VP_p-9tVwEpuvTh-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="397" />
+              <mxPoint x="80" y="670" />
+              <mxPoint x="860" y="670" />
+              <mxPoint x="860" y="175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-14" value="Spieler" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="367" width="30" height="60" as="geometry" />
