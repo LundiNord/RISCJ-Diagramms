@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:02:47.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="PUDjhjiq_VeSEjqxznHt" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T09:08:38.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="ziA43q0pH0CKN3FIFw8Y" version="22.1.4" type="github">
   <diagram name="Seite-1" id="VoximPgfXESim8kF5o4X">
-    <mxGraphModel dx="877" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-1" value="Speicher-Block" style="whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-1" value="Speicher-Block" style="whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="255" y="148" width="318" height="402" as="geometry" />
         </mxCell>
-        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-5" value="Spieler" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-5" value="Spieler" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="367" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-6" value="Speicherinhalt inspizieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-6" value="Speicherinhalt inspizieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="337.5" y="288.5" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;rounded=1;" edge="1" parent="1" source="Ijv35LxQ1c8h_hiRQsC4-5" target="Ijv35LxQ1c8h_hiRQsC4-6">
+        <mxCell id="Ijv35LxQ1c8h_hiRQsC4-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;rounded=1;" parent="1" source="Ijv35LxQ1c8h_hiRQsC4-5" target="Ijv35LxQ1c8h_hiRQsC4-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="205" y="397" />
@@ -22,6 +22,9 @@
             <mxPoint x="160" y="407.28571428571433" as="sourcePoint" />
             <mxPoint x="347.42857142857133" y="230.1428571428571" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_1cRu_EtYKhJhqwPtkKR-1" value="Programm in den Lerncomputer laden" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#0E6E7C;" vertex="1" parent="1">
+          <mxGeometry x="348" y="410" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
