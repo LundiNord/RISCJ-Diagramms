@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T09:02:36.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="ITBLy3eV1NGpMM-dFhTt" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T09:06:48.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="Lbk-0Wm5gFlAsYx-oMsP" version="22.1.4" type="github">
   <diagram name="Seite-1" id="NroZgfhaD9NyDU4y-3oI">
     <mxGraphModel dx="1441" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,8 +152,11 @@
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-59" value="Lerncomputer zerstören" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="348" y="310" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="M4p_utti9_zCMArgyo4x-2" value="Lerncomputer programmieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="M4p_utti9_zCMArgyo4x-2" value="Lerncomputer programmieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1169.5" y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xNfpc41BwBicnMWGWOc8-1" value="Lerncomputer an Minecraft-Redstone-System anbinden" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008F7C;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="726" y="650" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
