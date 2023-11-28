@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T08:57:25.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="rhIa0xvbDsTvzYHIy7gk" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T09:02:36.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="ITBLy3eV1NGpMM-dFhTt" version="22.1.4" type="github">
   <diagram name="Seite-1" id="NroZgfhaD9NyDU4y-3oI">
-    <mxGraphModel dx="961" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1441" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-1" value="Minecraft - Lerncomputer Modifikation" style="whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-1" value="Minecraft - Lerncomputer Modifikation" style="whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="255" y="122" width="1137" height="973" as="geometry" />
         </mxCell>
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-2" value="Lerncomputer bauen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -90,7 +90,7 @@
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-40" value="Programmausführung starten" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1159.5" y="466.5" width="160" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-41" value="Einlesen in Mod Grundlagen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-41" value="Mod-Grundlagen Nachlesen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="337.5" y="1037" width="160" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-14" target="Xgd_PEKhiGCFAb-JLPNT-27" edge="1">
@@ -151,6 +151,9 @@
         </mxCell>
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-59" value="Lerncomputer zerstören" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="348" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M4p_utti9_zCMArgyo4x-2" value="Lerncomputer programmieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234F7C;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1169.5" y="560" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
