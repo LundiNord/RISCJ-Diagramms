@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T11:31:45.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="XGLREy6Ei9005Xat74yK" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T14:11:43.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="9WT71X8jzx-3IsdFmcQl" version="22.1.4" type="github">
   <diagram name="Seite-1" id="NroZgfhaD9NyDU4y-3oI">
-    <mxGraphModel dx="1745" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2433" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,15 @@
         </mxCell>
         <mxCell id="2xb1d-lXWdvE1D22W1Jt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;aspect=fixed;" parent="2xb1d-lXWdvE1D22W1Jt-1" vertex="1">
           <mxGeometry width="119.9952" height="103.99584" as="geometry" />
+        </mxCell>
+        <mxCell id="i06l6VP_p-9tVwEpuvTh-1" value="Lerncomputer programmieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i06l6VP_p-9tVwEpuvTh-2" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" edge="1" parent="1" source="i06l6VP_p-9tVwEpuvTh-1" target="Xgd_PEKhiGCFAb-JLPNT-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="602" y="129" as="sourcePoint" />
+            <mxPoint x="458" y="391" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
