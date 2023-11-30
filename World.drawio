@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T14:14:19.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="_WFlh2SUFgAs-p_BPvP6" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T01:39:50.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="3IwTyhA_oEbp1L5wNA5x" version="22.1.5" type="github">
   <diagram name="Seite-1" id="NroZgfhaD9NyDU4y-3oI">
-    <mxGraphModel dx="1562" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2433" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="DDFm2RIryqONvmcoJMjr-30" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-14" target="Xgd_PEKhiGCFAb-JLPNT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i06l6VP_p-9tVwEpuvTh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-14" target="i06l6VP_p-9tVwEpuvTh-1">
+        <mxCell id="i06l6VP_p-9tVwEpuvTh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-14" target="i06l6VP_p-9tVwEpuvTh-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="397" />
@@ -122,7 +122,7 @@
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-31" value="Register konfigurieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="550" y="450" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-35" value="Programm Transportieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-35" value="Programm transportieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="840" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-37" value="Lerncomputer-Status beobachten" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008f7c;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -131,7 +131,7 @@
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-40" value="Programmausführung starten" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="670" y="260" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-41" value="Mod-Grundlagen Nachlesen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Xgd_PEKhiGCFAb-JLPNT-41" value="Mod-Grundlagen nachlesen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="720" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xgd_PEKhiGCFAb-JLPNT-54" value="&amp;lt;&amp;lt;Extends&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=open;endSize=16;endFill=0;html=1;dashed=1;" parent="1" source="Xgd_PEKhiGCFAb-JLPNT-40" target="Xgd_PEKhiGCFAb-JLPNT-29" edge="1">
@@ -239,10 +239,10 @@
         <mxCell id="2xb1d-lXWdvE1D22W1Jt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;aspect=fixed;" parent="2xb1d-lXWdvE1D22W1Jt-1" vertex="1">
           <mxGeometry width="119.9952" height="103.99584" as="geometry" />
         </mxCell>
-        <mxCell id="i06l6VP_p-9tVwEpuvTh-1" value="Lerncomputer programmieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="i06l6VP_p-9tVwEpuvTh-1" value="Lerncomputer programmieren" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="670" y="140" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="i06l6VP_p-9tVwEpuvTh-2" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" edge="1" parent="1" source="i06l6VP_p-9tVwEpuvTh-1" target="Xgd_PEKhiGCFAb-JLPNT-2">
+        <mxCell id="i06l6VP_p-9tVwEpuvTh-2" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" parent="1" source="i06l6VP_p-9tVwEpuvTh-1" target="Xgd_PEKhiGCFAb-JLPNT-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="602" y="129" as="sourcePoint" />
             <mxPoint x="458" y="391" as="targetPoint" />
