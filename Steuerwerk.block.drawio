@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T11:27:31.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="sCFcDXn4ms7hyBqqXDl0" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T01:27:46.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition std-1)" etag="808n4QDZ5C2czfEYxJNz" version="22.1.5" type="github">
   <diagram name="Seite-1" id="iX9Erlg4D91D7t5KcNKl">
-    <mxGraphModel dx="1836" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2860" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
         <mxCell id="bFwOeTiSTafPXpueslh1-24" value="Aktiven Befehlssatz ändern" style="ellipse;whiteSpace=wrap;html=1;fillColor=#234f7c;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="50" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bFwOeTiSTafPXpueslh1-25" value="Systemvollständigkeit&lt;br&gt;Betrachten" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0E6E7C;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="bFwOeTiSTafPXpueslh1-25" value="Systemvollständigkeit&lt;br&gt;betrachten" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0E6E7C;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bFwOeTiSTafPXpueslh1-27" value="Befehlssatzerklärung einsehen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0e6e7c;fontColor=#FFFFFF;" parent="1" vertex="1">
